@@ -45,6 +45,7 @@ Ayush-Travels/
 │
 ├── css/
 ├── files/
+├── js/
 ├── about.html
 ├── contact.html
 ├── index.html
@@ -72,15 +73,3 @@ Ayush-Travels/
 [Visit the Live Site](https://ak251103.github.io/Ayush-Travels/)
 
 <br/>
-
-## 🙏 Acknowledgements
-
-- [Font Awesome](https://fontawesome.com/) for icons
-- [Unsplash](https://unsplash.com/) for images (if used)
-
-<br/>
-
-## 📬 Contact
-
-For any queries, reach out at [your-email@example.com](mailto:your-email@example.com)
->>>>>>> 17b42fa0f17805b7b64f431674fd7d56eb5a5264
